@@ -13,7 +13,7 @@
 ## Other Tools/Services:
 
 * [ModelMapper](https://github.com/modelmapper/modelmapper)
-* [JUnit 5 Jupyter](https://github.com/junit-team/junit5)
+* [JUnit 5 Jupiter](https://github.com/junit-team/junit5)
 * [Mockito](https://github.com/mockito/mockito)
 * Maven
 
